@@ -1,2 +1,41 @@
-# todo-list-vanilla-js
-🚀 A clean and functional Todo List App built using HTML, CSS, and vanilla JavaScript. ✅ Add and delete tasks with smooth UI 🎯 Built as part of JavaScript practice (Thapa Technical style) 💡 Great beginner-friendly project to understand DOM manipulation and event handling.
+# 📝 Todo List App (Vanilla JavaScript)
+
+A clean and functional Todo List web app built using **HTML**, **CSS**, and **Vanilla JavaScript**.  
+This project allows users to **add** and **delete** tasks interactively with a smooth UI.
+
+---
+
+## 🚀 Features
+
+- ✅ Add new todo items
+- 🗑️ Delete items with a click
+- 🎨 Responsive & user-friendly design
+- ⚡ Built using only HTML, CSS, and JavaScript (no frameworks)
+
+---
+
+## 🧠 What I Learned
+
+- DOM Manipulation
+- JavaScript Event Handling
+- Creating dynamic HTML elements
+- Using `addEventListener`, `createElement`, and `appendChild`
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## 📂 Project Structure
+
+## 📬 Contact
+
+**Kartik Kumar**  
+📧 kartik.thakur.0979@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kartik-pundir-0a7273299)  
+💻 [GitHub](https://github.com/Kartik-pundir7)
